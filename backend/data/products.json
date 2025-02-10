@@ -1,0 +1,183 @@
+[
+    {
+        "name": "Apple MacBook Pro 14-inch M3",
+        "price": "1999.99",
+        "description": "The Apple MacBook Pro 14-inch with M3 chip offers incredible speed and efficiency. Featuring a stunning Liquid Retina XDR display, a powerful GPU, and long battery life, it's ideal for professionals and creatives.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/macbook_m3_1",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/macbook_m3_1.jpg"
+            },
+            {
+                "public_id": "products/macbook_m3_2",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/macbook_m3_2.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Apple Store",
+        "stock": 30,
+        "numOfReviews": 120,
+        "reviews": []
+    },
+    {
+        "name": "Sony WH-1000XM5 Noise Cancelling Headphones",
+        "price": "349.99",
+        "description": "Sony's WH-1000XM5 headphones deliver industry-leading noise cancellation, premium sound quality, and up to 30 hours of battery life, ensuring the ultimate listening experience.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/sony_xm5_1",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/sony_xm5_1.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Best Buy",
+        "stock": 75,
+        "numOfReviews": 95,
+        "reviews": []
+    },
+    {
+        "name": "Canon EOS R6 Mirrorless Camera",
+        "price": "2499.00",
+        "description": "The Canon EOS R6 features a 20.1 MP sensor, 4K video recording, and fast autofocus, making it an excellent choice for photographers and videographers alike.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "products/canon_r6_1",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/canon_r6_1.jpg"
+            },
+            {
+                "public_id": "products/canon_r6_2",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/canon_r6_2.jpg"
+            },
+            {
+                "public_id": "products/canon_r6_3",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/canon_r6_3.jpg"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "Amazon",
+        "stock": 20,
+        "numOfReviews": 50,
+        "reviews": []
+    },
+    {
+        "name": "Fitbit Charge 5 Fitness Tracker",
+        "price": "129.99",
+        "description": "Stay on top of your health with the Fitbit Charge 5. Featuring built-in GPS, heart rate monitoring, and advanced sleep tracking, it's the perfect companion for a healthy lifestyle.",
+        "ratings": 4.3,
+        "images": [
+            {
+                "public_id": "products/fitbit_5_1",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/fitbit_5_1.jpg"
+            }
+        ],
+        "category": "Beauty/Health",
+        "seller": "Walmart",
+        "stock": 100,
+        "numOfReviews": 68,
+        "reviews": []
+    },
+    {
+        "name": "Logitech MX Master 3S Wireless Mouse",
+        "price": "99.99",
+        "description": "The Logitech MX Master 3S provides ultra-fast scrolling, ergonomic design, and advanced tracking, making it the perfect tool for professionals and gamers.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "products/logitech_mx3s_1",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/logitech_mx3s_1.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Logitech Official",
+        "stock": 150,
+        "numOfReviews": 220,
+        "reviews": []
+    },
+    {
+        "name": "The Midnight Library - Matt Haig",
+        "price": "14.99",
+        "description": "A bestselling novel exploring the infinite possibilities of life choices. The Midnight Library is an inspiring read about second chances and self-discovery.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "products/midnight_library_1",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/midnight_library_1.jpg"
+            }
+        ],
+        "category": "Books",
+        "seller": "Barnes & Noble",
+        "stock": 200,
+        "numOfReviews": 312,
+        "reviews": []
+    },
+    {
+        "name": "Nike Air Zoom Pegasus 40 Running Shoes",
+        "price": "129.99",
+        "description": "Nike’s Air Zoom Pegasus 40 offers ultimate comfort and performance for runners, featuring responsive cushioning and a lightweight design.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/nike_pegasus_40_1",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/nike_pegasus_40_1.jpg"
+            },
+            {
+                "public_id": "products/nike_pegasus_40_2",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/nike_pegasus_40_2.jpg"
+            }
+        ],
+        "category": "Clothes/shoes",
+        "seller": "Nike Store",
+        "stock": 80,
+        "numOfReviews": 180,
+        "reviews": []
+    },
+    {
+        "name": "GoPro HERO12 Black Action Camera",
+        "price": "399.99",
+        "description": "The GoPro HERO12 Black captures stunning 5.3K video, features HyperSmooth stabilization, and is waterproof up to 33ft—perfect for adventure enthusiasts.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "public_id": "products/gopro_hero12_1",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/gopro_hero12_1.jpg"
+            },
+            {
+                "public_id": "products/gopro_hero12_2",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/gopro_hero12_2.jpg"
+            }
+        ],
+        "category": "Outdoor",
+        "seller": "GoPro Official",
+        "stock": 60,
+        "numOfReviews": 75,
+        "reviews": []
+    },
+    {
+        "name": "Samsung 55-Inch QLED 4K Smart TV",
+        "price": "799.99",
+        "description": "Experience stunning visuals with the Samsung 55-inch QLED 4K Smart TV. Quantum HDR, ultra-smooth motion, and built-in streaming apps make it the perfect entertainment centerpiece.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "public_id": "products/samsung_qled_55_1",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/samsung_qled_55_1.jpg"
+            },
+            {
+                "public_id": "products/samsung_qled_55_2",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/samsung_qled_55_2.jpg"
+            },
+            {
+                "public_id": "products/samsung_qled_55_3",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/samsung_qled_55_3.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Samsung Store",
+        "stock": 40,
+        "numOfReviews": 210,
+        "reviews": []
+    }
+]
